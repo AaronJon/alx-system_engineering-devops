@@ -1,1 +1,1 @@
-Task0. Where am I?
+Display the contents of your current directory in a long format
